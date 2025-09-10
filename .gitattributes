@@ -1,3 +1,4 @@
 . filter=lfs diff=lfs merge=lfs -text
 arm64/armv7-unknown-linux-gnueabihf.tar.gz filter=lfs diff=lfs merge=lfs -text
 x86_64/armv7-unknown-linux-gnueabihf.tar.gz filter=lfs diff=lfs merge=lfs -text
+arm64/aarch64-unknown-linux-gnu.tar.xz filter=lfs diff=lfs merge=lfs -text
